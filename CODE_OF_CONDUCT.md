@@ -4,7 +4,7 @@
 
 The heart of a community is the people. Our project is concerned with receiving contributions from different backgrounds, from those who are aligned with our values and interested in promoting diversity and inclusion. We want a more engaged, collaborative and innovative team.
 
-Thus, we use this code of conduct, and expect it to be followed by all those who participate in the ** heydev ** community directly or indirectly.
+Thus, we use this code of conduct, and expect it to be followed by all those who participate in the **heydev** community directly or indirectly.
 
 ## Expected Behaviour
 
